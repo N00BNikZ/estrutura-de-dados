@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stlib.h>
 int main() {
     int A[3][3];
     int B[3][3];
